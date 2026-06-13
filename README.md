@@ -61,3 +61,9 @@ Toggle the weather_etl DAG to ON
 
 Trigger manually or let it run on its hourly schedule
 Monitor task-level logs in the Graph view
+
+**OUTPUT SCREENSHOTS**
+<img width="2792" height="1436" alt="WhatsApp Image 2026-06-13 at 14 14 17" src="https://github.com/user-attachments/assets/858fe1c0-382e-48df-9f97-dcced7981a07" />
+<img width="2866" height="1290" alt="WhatsApp Image 2026-06-13 at 14 14 18" src="https://github.com/user-attachments/assets/e6daccf4-515c-493f-9da8-e6c8eb6404a8" />
+
+
